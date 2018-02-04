@@ -31,7 +31,7 @@ SET A19=hsr
 SET A20=tribus
 SET A21=bitcore
 SET A22=xevan
-SET PASS=c=BTC,equihash=0.47,hsr=15.31,phi=29.93,lyra2z=2.87,lyra2v2=61.29,neoscrypt=1.43,c11=27.6,groestl=64.14,blake2s=6.7,x17=18,nist5=71.69,skein=877.15,sib=20.17,bitcore=25.1,tribus=76.43,xevan=4.95
+SET PASS=c=BTC,hsr=15.31,phi=29.93,lyra2z=2.87,lyra2v2=61.29,neoscrypt=1.43,c11=27.6,groestl=64.14,blake2s=6.7,x17=18,nist5=71.69,skein=877.15,sib=20.17,bitcore=25.1,tribus=76.43,xevan=4.95
 SET PASS1=c=BTC
 :start
 ECHO Starting SniffDogminer if this helped you please donate #Sniff....
